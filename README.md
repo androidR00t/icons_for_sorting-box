@@ -3,7 +3,7 @@
 icons for my Project (sorting box)
 
 
-_all icons are made with LibreOffice Draw
+_all icons are made  by me with LibreOffice Draw 
 # feel free to use
 ![](test.gif)
 
