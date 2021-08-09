@@ -8,6 +8,10 @@ _all icons are made with LibreOffice Draw
 ![](test.gif)
 
 
+![](tft_display.png)
+
+
+
 
 
 
