@@ -7,6 +7,8 @@ _ reason why this projekt exist
 ----------------------------------------------
 i have to much time "actually":laughing:
 
+if you want some costum icons ask me :smile:
+
 
 
 icons for my Project (sorting box)
